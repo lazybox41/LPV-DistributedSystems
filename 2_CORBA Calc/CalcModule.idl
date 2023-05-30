@@ -1,0 +1,5 @@
+module CalcModule{
+	interface Calc{
+		float add(in float num1, in float num2);
+	};
+};
